@@ -1,2 +1,3 @@
 password.txt
 .DS_Store
+# gitの対象外のファイル
